@@ -1,10 +1,11 @@
-import java.util.Scanner;
+
 /**
  * Aqui te muesto dos maneras de como sumar dos matrices 3x3.
  * Disfrutalo hombre!
  *
  * @author vilarj
  */
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
