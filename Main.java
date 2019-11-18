@@ -12,7 +12,7 @@ public class Main {
         int[][] matriz2 = new int[3][3];
         int[][] suma = new int[3][3];
 
-        // Llenando la primera matrix
+        // Llenando la primera matriz
         System.out.println("Entre la primera matriz: ");
         for (int a = 0; a < 3; a++) {
             for (int b = 0; b < 3; b++) {
@@ -20,7 +20,7 @@ public class Main {
             }
         }
 
-        // Llenando la segunda matrix
+        // Llenando la segunda matriz
         System.out.println("Entre la segunda matriz: ");
         for (int c = 0; c < 3; c++) {
             for (int d = 0; d < 3; d++) {
@@ -42,7 +42,6 @@ public class Main {
             }
         }
 
-        System.out.print("\n+++++++++++++++++++++++++++++");
         System.out.print("\n=S=E=G=U=N=D=O===E=J=M=P=L=O=\n");
         System.out.print(general());
     }
