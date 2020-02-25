@@ -31,6 +31,7 @@ public class Main {
 
         for (int e = 0; e < 3; e++) {
             for (int f = 0; f < 3; f++) {
+
                 suma[e][f] = matriz1[e][f] + matriz2[e][f];
             }
         }
